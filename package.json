@@ -1,0 +1,14 @@
+{
+  "name": "mongodbclass",
+  "version": "1.0.0",
+  "description": "\"this is mongodb task\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "shivarth",
+  "license": "ISC",
+  "dependencies": {
+    "mongoose": "^8.2.1"
+  }
+}
